@@ -90,3 +90,4 @@ target/
 data/
 setup.py
 test_environment.py
+tox.ini
